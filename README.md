@@ -1,4 +1,4 @@
-# lang_tech_help
+# About
 Tech help for Language technology for Linguists with Internet of Things (IoT)
 
 # Table of content
